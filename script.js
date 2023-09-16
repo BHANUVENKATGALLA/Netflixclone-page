@@ -3,13 +3,13 @@
 // Simulate loading movie and TV show data
 const movies = [
     { title: "Kushi", poster: "movie1.jpg" },
-    { title: "Movie 2", poster: "movie2.jpg" },
+    { title: "Money Heist", poster: "movie2.jpg" },
     // Add more movie data here
-];
-
+]; 
+ 
 const tvShows = [
-    { title: "TV Show 1", poster: "show1.jpg" },
-    { title: "TV Show 2", poster: "show2.jpg" },
+    { title: "Manifest", poster: "show1.jpg" },
+    { title: "Horrid Henry", poster: "show2.jpg" },
     // Add more TV show data here
 ];
 
